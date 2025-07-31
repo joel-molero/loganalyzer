@@ -1,2 +1,2 @@
 # loganalyzer
-Simple TCP Port Scanner CLI
+Log-File Analyzer
